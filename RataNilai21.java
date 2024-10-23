@@ -5,7 +5,6 @@ public class RataNilai21 {
         Scanner sc = new Scanner(System.in);
         int i=1, j=1, nilaiMhs;
         float nilai, totalNilai=0, rataNilai;
-            totalNilai = 0;
             
         while (i<=5) {
             totalNilai=0;
